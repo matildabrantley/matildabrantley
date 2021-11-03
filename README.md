@@ -13,8 +13,8 @@ ideals for software that can adjust to ever-changing needs and generate satisfyi
 I recently completed Georgia Tech's Full Stack Coding Bootcamp and graduated with a Bachelor of Science
 from Rogers State University and Evergreen State College. Frameworks and technologies I'm currently involved with
 include React, MongoDB, Progressive Web Apps, Express/Node, Phaser and AI.  
-My coding experience goes back over a decade as an enthusiastic hobbyist, coming from a family of coders and engineers. 
   
+My coding experience goes back over a decade as an enthusiastic hobbyist, coming from a family of coders and engineers.
 I started with C++ and Java in the late 2000s, writing simple neural nets. In university, I received 
 a well-rounded CS education of both theory and application, discovering new paradigms and learning Haskell, C, C#, Python and JavaScript. 
 I enjoyed working with JS so much I decided to specialize in full stack web development: designing apps for the web uniquely bridges
