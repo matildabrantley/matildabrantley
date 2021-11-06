@@ -20,6 +20,7 @@ I enjoyed working with JS so much I decided to specialize in full stack web deve
 that divide between user and developer in ways both succinct and satisfying.
 
 ### Major Projects
+#### [Portfolio Site](https://matildabrantley.github.io/portfolio-react/)
 * [LEaseGIT](https://still-tundra-21201.herokuapp.com/) - Sequelize, Express, Matter
     * Post or search for real estate for sale, use room planner to stage a property or see how your furniture might fit
 * [Brewery Travel Guide](https://matildabrantley.github.io/project-one/) - OpenBrewery & Wikipedia APIs
