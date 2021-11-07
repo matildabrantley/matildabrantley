@@ -1,9 +1,5 @@
 ## Welcome!
-### Table of Contents:
-* [About Me](#aboutme)
-* [Major Projects](#majorprojects)
 
-### About Me
 I'm Matilda Brantley, a full stack web developer. I love seeing an idea in my mind spring to life. 
 Designing software is the perfect outlet for this as it's one of the most living, mutable designs we make. 
 I also have a passion for the biological sciences, especially intelligent systems and evolution. These inspire my 
