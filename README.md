@@ -16,7 +16,7 @@ I enjoyed working with JS so much I decided to specialize in full stack web deve
 that divide between user and developer in ways both succinct and satisfying.
 
 ### Major Projects
-* [Portfolio Site](https://matildabrantley.github.io/portfolio-react/)
+* [Portfolio Site](https://matildabrantley.github.io/portfolio-react/) - React, React-Spring
 * [Book Search Engine](https://fathomless-dusk-11575.herokuapp.com/) - M.E.R.N Stack, Google Books API
    * Full stack search engine for books using Google Books API.
 * [Brewery Travel Guide](https://matildabrantley.github.io/project-one/) - OpenBrewery & Wikipedia APIs
