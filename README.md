@@ -17,25 +17,25 @@ that divide between user and developer in ways both succinct and satisfying.
 
 ### Major Projects
 * [Portfolio Site](https://matildabrantley.github.io/portfolio-react/)
+* [Book Search Engine](https://fathomless-dusk-11575.herokuapp.com/) - M.E.R.N Stack, Google Books API
+   * Full stack search engine for books using Google Books API.
+* [Brewery Travel Guide](https://matildabrantley.github.io/project-one/) - OpenBrewery & Wikipedia APIs
+    * Plan a trip, search for breweries, search Wikipedia for cities and states with filtered and curated results
+* [Weather Dashboard](https://matildabrantley.github.io/weather-dashboard/) - OpenWeather API
+    * Retrieve and display weather data for cities from OpenWeather 
 * [LEaseGIT](https://still-tundra-21201.herokuapp.com/) - Sequelize, Express, Matter
     * Post or search for real estate for sale, use room planner to stage a property or see how your furniture might fit
-* [Brewery Travel Guide](https://matildabrantley.github.io/project-one/) - OpenBrewery & Wikipedia APIs
-    * Plan a trip, search for breweries, search Wikipedia for cities and states with filtered and curated results 
 * [Password Generator](https://matildabrantley.github.io/password-generator/) - JavaScript
     * Generates passwords from user prompts
 * [E-Commerce Back-End](https://github.com/matildabrantley/e-commerce-back-end) - Node, MySQL, Sequelize (Object-Relational Mapping)
     * Interact with a complete E-Commerce back-end through a REST API client (such as Insomnia or Thunder Client)
 * [Employee Tracker](https://github.com/matildabrantley/employee-tracker) - Node, Inquirer, MySQL
     * Content Management System for tracking employees implementing C.R.U.D. in MySQL database
-* [Weather Dashboard](https://matildabrantley.github.io/weather-dashboard/) - OpenWeather API
-    * Retrieve and display weather data for cities from OpenWeather
 * [Coding Quiz](https://matildabrantley.github.io/code-quiz/) - jQuery, Dynamic Content
     * Take a quiz on the web about basic coding knowledge
 * [Work Day Scheduler](https://matildabrantley.github.io/work-day-scheduler/) - jQuery, Client-side Storage
     * Plan upcoming activities on a color-coded hourly basis
 * [Workout Tracker](https://mysterious-retreat-86741.herokuapp.com/) - NoSQL with MongoDB, Express, Chart.js
     * Keep track of your fitness using Mongo database.
-* [Book Search Engine](https://fathomless-dusk-11575.herokuapp.com/) - M.E.R.N Stack, Google Books API
-   * Full stack search engine for books using Google Books API.
 * [Meta-Evolution Lab](https://github.com/matildabrantley/metaevolution) - M.E.R.N Stack, Phaser 3 Game Engine, Custom Neural Networks
    * Online Lab for Open-ended AI through Hierarchical Evolution
