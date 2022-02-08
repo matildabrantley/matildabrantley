@@ -7,7 +7,7 @@ ideals for software that can adjust to ever-changing needs and generate satisfyi
   
 I recently completed Georgia Tech's Full Stack Coding Bootcamp and graduated with a Bachelor of Science
 from Rogers State University and Evergreen State College. Frameworks and technologies I'm currently involved with
-include React, MongoDB, Progressive Web Apps, Express/Node, Phaser and AI.  
+include React, MongoDB, Progressive Web Apps, Node/Express, Phaser and AI.  
   
 My coding experience goes back over a decade as an enthusiastic hobbyist, coming from a family of coders and engineers.
 I started with C++ and Java in the late 2000s, writing simple neural nets. In university, I received 
@@ -23,10 +23,10 @@ that divide between user and developer in ways both succinct and satisfying.
     * Plan a trip, search for breweries, search Wikipedia for cities and states with filtered and curated results
 * [Weather Dashboard](https://matildabrantley.github.io/weather-dashboard/) - OpenWeather API
     * Retrieve and display weather data for cities from OpenWeather 
-* [LEaseGIT](https://still-tundra-21201.herokuapp.com/) - Sequelize, Express, Matter
-    * Post or search for real estate for sale, use room planner to stage a property or see how your furniture might fit
 * [Password Generator](https://matildabrantley.github.io/password-generator/) - JavaScript
     * Generates passwords from user prompts
+* [LEaseGIT](https://still-tundra-21201.herokuapp.com/) - Sequelize, Express, Matter
+    * Post or search for real estate for sale, use room planner to stage a property or see how your furniture might fit
 * [E-Commerce Back-End](https://github.com/matildabrantley/e-commerce-back-end) - Node, MySQL, Sequelize (Object-Relational Mapping)
     * Interact with a complete E-Commerce back-end through a REST API client (such as Insomnia or Thunder Client)
 * [Employee Tracker](https://github.com/matildabrantley/employee-tracker) - Node, Inquirer, MySQL
