@@ -37,5 +37,5 @@ that divide between user and developer in ways both succinct and satisfying.
     * Plan upcoming activities on a color-coded hourly basis
 * [Workout Tracker](https://mysterious-retreat-86741.herokuapp.com/) - NoSQL with MongoDB, Express, Chart.js
     * Keep track of your fitness using Mongo database.
-* [Meta-Evolution Lab](https://github.com/matildabrantley/metaevolution) - M.E.R.N Stack, Phaser 3 Game Engine, Custom Neural Networks
+* [Meta-Evolution Lab](https://github.com/matildabrantley/metaevolution) - M.E.R.N Stack, Custom Neural Networks, Phaser 3 Game Engine, Material-UI, React-Spring
    * Online Lab for Open-ended AI through Hierarchical Evolution
