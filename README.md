@@ -4,10 +4,6 @@ I'm Matilda Brantley, a full stack web developer. I love seeing an idea in my mi
 Designing software is the perfect outlet for this as it's one of the most living, mutable designs we make. 
 I also have a passion for the biological sciences, especially intelligent systems and evolution. These inspire my 
 ideals for software that can adjust to ever-changing needs and generate satisfying novel experiences for the user.  
-  
-I recently completed Georgia Tech's Full Stack Coding Bootcamp and graduated with a Bachelor of Science
-from Rogers State University and Evergreen State College. Frameworks and technologies I'm currently involved with
-include React, MongoDB, Progressive Web Apps, Node/Express, Phaser and AI.  
 
 ### Major Projects
 * [Portfolio Site](https://matildabrantley.github.io/portfolio-react/) - React, React-Spring
@@ -33,6 +29,11 @@ include React, MongoDB, Progressive Web Apps, Node/Express, Phaser and AI.
     * Keep track of your fitness using Mongo database.
 * [Meta-Evolution Lab](https://github.com/matildabrantley/metaevolution) - M.E.R.N Stack, Custom Neural Networks, Phaser 3 Game Engine, Material-UI, React-Spring
    * Online Lab for Open-ended AI through Hierarchical Evolution
+
+### Education and Background
+I recently completed Georgia Tech's Full Stack Coding Bootcamp and graduated with a Bachelor of Science
+from Rogers State University and Evergreen State College. Frameworks and technologies I'm currently involved with
+include React, MongoDB, Progressive Web Apps, Node/Express, Phaser and AI.  
 
 My coding experience goes back over a decade as an enthusiastic hobbyist, coming from a family of coders and engineers.
 I started with C++ and Java in the late 2000s, writing simple neural nets. In university, I received 
